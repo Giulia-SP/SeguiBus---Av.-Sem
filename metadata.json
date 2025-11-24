@@ -1,0 +1,8 @@
+{
+  "name": "SeguiBus",
+  "description": "Um assistente de transporte público inclusivo para pessoas com deficiência visual, auditiva e de fala.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
